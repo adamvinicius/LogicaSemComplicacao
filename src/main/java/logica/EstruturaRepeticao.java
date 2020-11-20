@@ -22,4 +22,6 @@ public class EstruturaRepeticao {
 		
 		return resultado;
 	}
+	
+	//comentario
 }
